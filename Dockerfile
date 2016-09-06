@@ -7,3 +7,8 @@ MAINTAINER Chris Hammer <chris@thezengarden.net>
 RUN apk update
 RUN apk upgrade
 RUN apk add bash tar gzip curl
+
+
+# Add root's .bashrc:
+#####################
+COPY env/root_bashrc /root/.bashrc
