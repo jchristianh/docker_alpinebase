@@ -9,7 +9,7 @@ alias ll="ls --color -al"
 alias cls="clear"
 
 
-export PS1='\h: \[\033[1;36m\]\w\[\033[0m\]\[\033[0m\]> '
+export PS1='\h: \[\033[1;31m\]\w\[\033[0m\]\[\033[0m\]> '
 
 
 ######## TTY Colours #######
