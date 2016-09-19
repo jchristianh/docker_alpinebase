@@ -1,3 +1,7 @@
+##################################
+# The Zen Garden :: Alphine Base #
+#     Build Tag: 160919-411      #
+##################################
 FROM alpine:latest
 MAINTAINER Chris Hammer <chris@thezengarden.net>
 
