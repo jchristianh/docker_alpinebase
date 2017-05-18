@@ -6,10 +6,10 @@ This image will build a base Alpine Linux image for use with my Chef CI containe
 Requirements
 ------------
 
-As this is based on the Docker.io CentOS image, you will need that image in order to build this one:
+As this is based on the Docker.io Alpine image, you will need that image in order to build this one:
 
-- Docker.io CentOS 7 Base:
-  CentOS 7.2.1511 / docker pull docker.io/centos:7.2.1511
+- Docker.io Alpine Linux:
+  Alpine Linux / docker pull alpine:latest
 
 License
 -------
