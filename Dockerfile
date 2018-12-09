@@ -2,7 +2,8 @@
 # The Zen Garden :: Alpine Base #
 #     Build Tag: 170518-752     #
 ##################################
-FROM alpine:latest
+# FROM alpine:3.4
+FROM alpine:3.8
 MAINTAINER Chris Hammer <chris@thezengarden.net>
 
 
